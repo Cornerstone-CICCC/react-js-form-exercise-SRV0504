@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f4f4;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+form {
+  margin-bottom: 16px;
+}
+
+label {
+  font-weight: 600;
+}
+
+input[type="text"],
+input[type="number"] {
+  width: 100%;
+  padding: 6px;
+  margin-top: 4px;
+}
+
+button {
+  padding: 6px 12px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.output {
+  margin-top: 16px;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
